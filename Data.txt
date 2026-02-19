@@ -1,0 +1,9 @@
+Barometer (2/19/2025): 
+  Temp: 20.3 C
+  Pressure : 131125 Pa
+  Altitude: -2229.13 m
+
+  Temp: 20.4 C
+  Pressure: 131125 Pa
+  Altitude: -2229.8 m
+    
