@@ -6,6 +6,7 @@
 #include <linux/i2c-dev.h>
 #include <math.h>
 #include <byteswap.h>
+#include <i2c/smbus.h>
 
 #define I2C_ADDR 0x77
 #define I2C_DEV "/dev/i2c-1"
